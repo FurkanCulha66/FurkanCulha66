@@ -4,8 +4,8 @@
 🎯 My goal: To improve my skills and create amazing apps in the future! </br>
 
 ---
+<h2 align="center"> 💬 Contact Me: 👋</h2>
 
-</h2> 💬 Contact Me: </h2> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Furkanculha7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@frknclh66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frknclh66@gmail.com) 
 
 ---
