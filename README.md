@@ -6,7 +6,11 @@
 ---
 <h2 align="center"> 💬 Contact Me: 👋</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Furkanculha7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@frknclh66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frknclh66@gmail.com) 
+<a href="https://twitter.com/@frnkclh66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@frnkclh66" height="30" width="40" /></a>
+<a href="https://instagram.com/furkanculha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanculha7" height="30" width="40" /></a>
+</p>
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frknclh66@gmail.com) 
 
 ---
 
