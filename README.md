@@ -18,20 +18,6 @@
 
 ---
 
-### 🚀 My Goals:
-- [x] Build my first website  
-- [x] Learn Git and GitHub  
-- [ ] Create a responsive project  
-- [ ] Contribute to open-source projects  
-
----
-
-### 🧭 Featured Projects:
-- [Todo & Notes App](https://github.com/Nakruf66/todo-notes-app)  
-- [Spotify Clone Project](https://github.com/Nakruf66/spotify-clone)
-
----
-
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FurkanCulha66&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FurkanCulha66&theme=shadow_red&hide_border=false)<br/>
@@ -45,6 +31,19 @@
 
 ---
 
+### 🚀 My Goals:
+- [x] Build my first website  
+- [x] Learn Git and GitHub  
+- [ ] Create a responsive project  
+- [ ] Contribute to open-source projects  
+
+---
+
+### 🧭 Featured Projects:
+- [Todo & Notes App](https://github.com/Nakruf66/todo-notes-app)  
+- [Spotify Clone Project](https://github.com/Nakruf66/spotify-clone)
+
+---
 
 > 🚢 </b> </i> Code is my compass, and dreams are my destination! </i>  </b>
 
