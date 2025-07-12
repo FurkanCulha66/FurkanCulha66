@@ -41,7 +41,7 @@
 ### 💬 Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Furkanculha7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@frknclh66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frknclh66@gmail.com) 
 
-> 🚢 Code is my compass, and dreams are my destination!
+> 🚢 </b> </i> Code is my compass, and dreams are my destination! </i>  </b>
 
 ---
 
